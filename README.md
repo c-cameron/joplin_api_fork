@@ -1,7 +1,5 @@
 # Joplin Api
 
-![Joplin API](https://scrutinizer-ci.com/g/foxmask/joplin-api/badges/quality-score.png?b=master "joplin-api")
-
 The API of [Joplin Editor](https://joplinapp.org/) in Python 3.7+
 
 ## requirements
@@ -12,7 +10,7 @@ The API of [Joplin Editor](https://joplinapp.org/) in Python 3.7+
 ## Installation
 
 ```
-git clone  https://github.com/foxmask/joplin-api
+git clone  https://gitlab.com/annyong/joplin-api
 cd joplin-api
 pip install -e .
 ```
